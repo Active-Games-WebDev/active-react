@@ -1,0 +1,58 @@
+.galleryShopContainer{
+    position:relative;
+    max-width: 55%;
+    width: 55%;
+    height: 507px;
+    border:2px solid black;
+    left:400px;
+
+}
+
+.galleryElement {
+    position: relative;
+    float: left;
+    width: 200px;
+    height: 250px;
+    border-radius: 8px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.galleryElement .prodInfo{
+    top:-40px;
+    position: relative;
+    left: 5px;
+}
+
+.galleryElement img {
+    max-width: 200px;
+    max-height: 150px;
+    width: 200px;
+    height: 150px;
+    box-shadow: 5px 5px gray;
+}
+
+.galleryElement #prodTitle{
+    position:relative;
+    top: 45px;
+    margin-bottom: 7px;
+    width:80%;
+}
+
+.galleryElement #prodGame{
+    position:relative;
+    top: 30px;
+    margin-bottom: 7px;
+    width:60%;;
+}
+.galleryElement #prodStock{
+    position:relative;
+    width:60%;
+    top:15px;
+}
+.galleryElement #prodPrice{
+    position:relative;
+    width:35%;
+    left:115px;
+    top:-10px;
+}

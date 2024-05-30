@@ -1,0 +1,8 @@
+.bannerRight{
+    border: 8px solid black;
+    position: relative;
+    right: -1500px;
+    top: -1235px;
+    width: 18%;
+    height: 604px;
+}

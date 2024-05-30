@@ -1,0 +1,93 @@
+{
+  "databaseName": "pkmnDatabase",
+  "content": "pkmnProducts",
+  "members": [
+    {
+      "prodCode": "PKMN35",
+      "prodName": "Paradox Sobre Sellado",
+      "prodGame": "Pokémon",
+      "prodStock": "10",
+      "prodPrice": "5000",
+      "pictureSrc": "./database/pics/kittenPar.jpg"
+    },
+
+    {
+      "prodCode": "PKMN200",
+      "prodName": "Paldean Fates Sellado",
+      "prodGame": "Pokémon",
+      "prodStock": "10",
+      "prodPrice": "12500",
+      "pictureSrc": "./database/pics/kittenPaf.jpg"
+    },
+
+    {
+      "prodCode": "PKMN003",
+      "prodName": "151 Sellado",
+      "prodGame": "Pokémon",
+      "prodStock": "7",
+      "prodPrice": "40500",
+      "pictureSrc": "./database/pics/kitten151.jpg"
+    },
+    {
+      "prodCode": "PKMN35",
+      "prodName": "Paradox Sellado",
+      "prodGame": "Pokémon",
+      "prodStock": "3",
+      "prodPrice": "5000",
+      "pictureSrc": "./database/pics/kittenPar.jpg"
+    },
+
+    {
+      "prodCode": "PKMN200",
+      "prodName": "Paldean Fates Sellado",
+      "prodGame": "Pokémon",
+      "prodStock": "10",
+      "prodPrice": "12500",
+      "pictureSrc": "./database/pics/kittenPaf.jpg"
+    },
+
+    {
+      "prodCode": "PKMN003",
+      "prodName": "151 Sellado",
+      "prodGame": "Pokémon",
+      "prodStock": "7",
+      "prodPrice": "40500",
+      "pictureSrc": "./database/pics/kitten151.jpg"
+    },
+    {
+      "prodCode": "PKMN35",
+      "prodName": "Paradox Sellado",
+      "prodGame": "Pokémon",
+      "prodStock": "3",
+      "prodPrice": "5000",
+      "pictureSrc": "./database/pics/kittenPar.jpg"
+    },
+
+    {
+      "prodCode": "PKMN200",
+      "prodName": "Paldean Fates Sellado",
+      "prodGame": "Pokémon",
+      "prodStock": "10",
+      "prodPrice": "12500",
+      "pictureSrc": "./database/pics/kittenPaf.jpg"
+    },
+
+    {
+      "prodCode": "PKMN003",
+      "prodName": "151 Sellado",
+      "prodGame": "Pokémon",
+      "prodStock": "7",
+      "prodPrice": "40500",
+      "pictureSrc": "./database/pics/kitten151.jpg"
+    },
+    {
+      "prodCode": "PKMN35",
+      "prodName": "Paradox Sellado",
+      "prodGame": "Pokémon",
+      "prodStock": "3",
+      "prodPrice": "5000",
+      "pictureSrc": "./database/pics/kittenPar.jpg"
+    }
+
+  ]
+}
