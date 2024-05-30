@@ -17,7 +17,6 @@ import GalleryBoxes from './app/routes/gallery/galleryBoxes.tsx';
 import BannersLeft from './app/routes/bannerLeft/bannersLeft.tsx';
 //@ts-ignore
 import BannersRight from './app/routes/bannerRight/bannersRight.tsx';
-
 export default function App() {
     return(
         <html lang="en">
